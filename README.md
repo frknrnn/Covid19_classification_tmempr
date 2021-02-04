@@ -7,7 +7,6 @@ covid_list = pd.read_csv("yourPath/DataSet_Csv/covid_tmempr_100.csv", sep=','  ,
 normal_list = pd.read_csv("yourPath/DataSet_Csv/normal_tmempr_100.csv", sep=','  , engine='python')
 
 Example for dct(Discrete Cosine Transform) :
-Example for tmempr:
 covid_list = pd.read_csv("yourPath/DataSet_Csv/covid_dct_100.csv", sep=','  , engine='python')
 normal_list = pd.read_csv("yourPath/DataSet_Csv/normal_dct_100.csv", sep=','  , engine='python')
 
